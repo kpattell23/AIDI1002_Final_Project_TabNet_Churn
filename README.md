@@ -8,7 +8,7 @@ This repository contains the implementation of the **AIDI 1002 Final Project** o
 - Metrics: Accuracy, F1, ROC-AUC
 
 ## Files
-- `Final_Project_AIDI1002_Tabnet_churn.ipynb` (and/or `(1).ipynb`) – main notebook
+- `Final_Project_AIDI1002_Tabnet_churn.ipynb` 
 - `requirements.txt` – Python dependencies
 - `.gitignore` – ignore notebook checkpoints, data, etc.
 - `LICENSE` – MIT License
